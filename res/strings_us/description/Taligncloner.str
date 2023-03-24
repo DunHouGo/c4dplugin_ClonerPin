@@ -1,0 +1,15 @@
+STRINGTABLE Taligncloner
+{
+    Taligncloner "Align to Cloner";
+
+    LINK_NODE    "Linked Object";
+    CREATE_NULL "Create Null";
+
+    
+    CLONER_INDEX   "Object index";
+    INDEX_LOOP   "Loop index";
+    SHOW_INDEX   "Show index";
+
+    STIKY_ON_CLONER "Sticky on Cloner";
+    NULLOO " ";
+}
